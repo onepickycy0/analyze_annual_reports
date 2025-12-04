@@ -13,34 +13,34 @@ OPENAI_CONFIG = {
 
 # 数据目录配置
 DATA_DIRS = {
-    "2002": "/root/liujie/nianbao-v2/gpt-5/reports/2002",
-    "2003": "/root/liujie/nianbao-v2/gpt-5/reports/2003",
-    "2004": "/root/liujie/nianbao-v2/gpt-5/reports/2004",
-    "2005": "/root/liujie/nianbao-v2/gpt-5/reports/2005",
-    "2006": "/root/liujie/nianbao-v2/gpt-5/reports/2006",
-    "2007": "/root/liujie/nianbao-v2/gpt-5/reports/2007",
-    "2008": "/root/liujie/nianbao-v2/gpt-5/reports/2008",
-    "2009": "/root/liujie/nianbao-v2/gpt-5/reports/2009",
-    "2010": "/root/liujie/nianbao-v2/gpt-5/reports/2010",
-    "2011": "/root/liujie/nianbao-v2/gpt-5/reports/2011",
-    "2012": "/root/liujie/nianbao-v2/gpt-5/reports/2012",
-    "2013": "/root/liujie/nianbao-v2/gpt-5/reports/2013",
-    "2014": "/root/liujie/nianbao-v2/gpt-5/reports/2014",
-    "2015": "/root/liujie/nianbao-v2/gpt-5/reports/2015",
-    "2016": "/root/liujie/nianbao-v2/gpt-5/reports/2016",
-    "2017": "/root/liujie/nianbao-v2/gpt-5/reports/2017",
-    "2018": "/root/liujie/nianbao-v2/gpt-5/reports/2018",
-    "2019": "/root/liujie/nianbao-v2/gpt-5/reports/2019",
-    "2020": "/root/liujie/nianbao-v2/gpt-5/reports/2020",
-    "2021": "/root/liujie/nianbao-v2/gpt-5/reports/2021",
-    "2022": "/root/liujie/nianbao-v2/gpt-5/reports/2022",
-    "2023": "/root/liujie/nianbao-v2/gpt-5/reports/2023",
-    "2024": "/root/liujie/nianbao-v2/gpt-5/reports/2024",
+    "2002": "/root/liujie/nianbao-v2/results/reports/2002",
+    "2003": "/root/liujie/nianbao-v2/results/reports/2003",
+    "2004": "/root/liujie/nianbao-v2/results/reports/2004",
+    "2005": "/root/liujie/nianbao-v2/results/reports/2005",
+    "2006": "/root/liujie/nianbao-v2/results/reports/2006",
+    "2007": "/root/liujie/nianbao-v2/results/reports/2007",
+    "2008": "/root/liujie/nianbao-v2/results/reports/2008",
+    "2009": "/root/liujie/nianbao-v2/results/reports/2009",
+    "2010": "/root/liujie/nianbao-v2/results/reports/2010",
+    "2011": "/root/liujie/nianbao-v2/results/reports/2011",
+    "2012": "/root/liujie/nianbao-v2/results/reports/2012",
+    "2013": "/root/liujie/nianbao-v2/results/reports/2013",
+    "2014": "/root/liujie/nianbao-v2/results/reports/2014",
+    "2015": "/root/liujie/nianbao-v2/results/reports/2015",
+    "2016": "/root/liujie/nianbao-v2/results/reports/2016",
+    "2017": "/root/liujie/nianbao-v2/results/reports/2017",
+    "2018": "/root/liujie/nianbao-v2/results/reports/2018",
+    "2019": "/root/liujie/nianbao-v2/results/reports/2019",
+    "2020": "/root/liujie/nianbao-v2/results/reports/2020",
+    "2021": "/root/liujie/nianbao-v2/results/reports/2021",
+    "2022": "/root/liujie/nianbao-v2/results/reports/2022",
+    "2023": "/root/liujie/nianbao-v2/results/reports/2023",
+    "2024": "/root/liujie/nianbao-v2/results/reports/2024",
 }
 
 # 数据库配置
 DATABASE_CONFIG = {
-    "base_path": "/root/liujie/nianbao-v2/gpt-5",
+    "base_path": "/root/liujie/nianbao-v2/results",
     "db_name": "annual_reports_quantitative.db",  # 统一数据库存储所有年份
 }
 
@@ -201,7 +201,7 @@ QUANTITATIVE_CONFIG = {
     "batch_size_keywords": 50,
     "normalization_method": "nss_density",  # NSS密度校正方法
     "max_concurrent": 8,
-    "output_dir": "/root/liujie/nianbao-v2/gpt-5",  # 输出目录
+    "output_dir": "/root/liujie/nianbao-v2/results",  # 输出目录
 }
 
 # 语料库构建提示词
