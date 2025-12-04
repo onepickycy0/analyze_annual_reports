@@ -1,0 +1,9 @@
+2025-11-21 18:20:42,972 - INFO - 初始化关键词提取器: batch_size=50, max_concurrent=8
+2025-11-21 18:20:42,973 - INFO - 开始提取 2014 年关键词
+2025-11-21 18:20:43,007 - INFO - 2014年语料库: 6679 段文本
+2025-11-21 18:20:43,008 - INFO - 2014年分成 134 个批次，并发数: 8
+2025-11-21 18:21:01,641 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-21 18:21:01,975 - INFO - 批次5: 成功提取 23 个关键词
+2025-11-21 18:21:04,149 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-21 18:21:04,515 - INFO - 批次3: 成功提取 27 个关键词
+2025-11-21 18:21:04,743 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"

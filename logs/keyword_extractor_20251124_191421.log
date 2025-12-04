@@ -1,0 +1,211 @@
+2025-11-24 19:14:21,867 - INFO - 初始化关键词提取器: batch_size=50, max_concurrent=8
+2025-11-24 19:14:21,868 - INFO - 开始提取 2007 年关键词
+2025-11-24 19:14:21,879 - INFO - 2007年语料库: 5145 段文本
+2025-11-24 19:14:21,879 - INFO - 2007年分成 103 个批次，并发数: 8
+2025-11-24 19:14:48,814 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:14:49,058 - INFO - 批次5: 成功提取 37 个关键词
+2025-11-24 19:14:49,072 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:14:49,192 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:14:49,484 - INFO - 批次7: 成功提取 28 个关键词
+2025-11-24 19:14:49,539 - INFO - 批次2: 成功提取 31 个关键词
+2025-11-24 19:14:59,893 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:15:00,226 - INFO - 批次4: 成功提取 36 个关键词
+2025-11-24 19:15:14,774 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:15:15,497 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:15:15,840 - INFO - 批次8: 成功提取 56 个关键词
+2025-11-24 19:15:16,105 - INFO - 批次6: 成功提取 40 个关键词
+2025-11-24 19:15:16,281 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:15:16,636 - INFO - 批次3: 成功提取 60 个关键词
+2025-11-24 19:15:21,531 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:15:21,954 - INFO - 批次9: 成功提取 34 个关键词
+2025-11-24 19:15:22,149 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:15:23,616 - INFO - 批次1: 成功提取 64 个关键词
+2025-11-24 19:15:25,632 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:15:25,965 - INFO - 批次11: 成功提取 38 个关键词
+2025-11-24 19:15:36,867 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:15:37,201 - INFO - 批次12: 成功提取 47 个关键词
+2025-11-24 19:15:40,918 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:15:41,244 - INFO - 批次13: 成功提取 35 个关键词
+2025-11-24 19:15:42,743 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:15:43,056 - INFO - 批次10: 成功提取 61 个关键词
+2025-11-24 19:15:48,172 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:15:48,508 - INFO - 批次15: 成功提取 46 个关键词
+2025-11-24 19:15:50,405 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:15:50,725 - INFO - 批次17: 成功提取 37 个关键词
+2025-11-24 19:15:52,402 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:15:52,734 - INFO - 批次18: 成功提取 40 个关键词
+2025-11-24 19:15:59,157 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:15:59,509 - INFO - 批次19: 成功提取 24 个关键词
+2025-11-24 19:16:00,335 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:16:00,336 - INFO - 批次16: 成功提取 29 个关键词
+2025-11-24 19:16:07,944 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:16:08,277 - INFO - 批次14: 成功提取 55 个关键词
+2025-11-24 19:16:14,203 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:16:14,535 - INFO - 批次22: 成功提取 31 个关键词
+2025-11-24 19:16:15,275 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:16:15,580 - INFO - 批次21: 成功提取 38 个关键词
+2025-11-24 19:16:22,719 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:16:23,030 - INFO - 批次25: 成功提取 26 个关键词
+2025-11-24 19:16:33,614 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:16:33,953 - INFO - 批次20: 成功提取 61 个关键词
+2025-11-24 19:16:34,466 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:16:34,719 - INFO - 批次23: 成功提取 40 个关键词
+2025-11-24 19:16:39,709 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:16:40,069 - INFO - 批次24: 成功提取 58 个关键词
+2025-11-24 19:16:46,640 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:16:46,962 - INFO - 批次26: 成功提取 68 个关键词
+2025-11-24 19:16:47,592 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:16:47,929 - INFO - 批次29: 成功提取 36 个关键词
+2025-11-24 19:16:53,990 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:16:54,356 - INFO - 批次27: 成功提取 60 个关键词
+2025-11-24 19:16:54,961 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:16:55,258 - INFO - 批次30: 成功提取 46 个关键词
+2025-11-24 19:17:00,572 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:17:00,891 - INFO - 批次28: 成功提取 44 个关键词
+2025-11-24 19:17:05,098 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:17:05,409 - INFO - 批次33: 成功提取 30 个关键词
+2025-11-24 19:17:07,895 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:17:08,194 - INFO - 批次31: 成功提取 34 个关键词
+2025-11-24 19:17:16,335 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:17:16,676 - INFO - 批次37: 成功提取 34 个关键词
+2025-11-24 19:17:25,295 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:17:25,649 - INFO - 批次36: 成功提取 44 个关键词
+2025-11-24 19:17:28,611 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:17:28,896 - INFO - 批次35: 成功提取 44 个关键词
+2025-11-24 19:17:29,405 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:17:29,589 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:17:29,763 - INFO - 批次39: 成功提取 28 个关键词
+2025-11-24 19:17:29,899 - INFO - 批次38: 成功提取 32 个关键词
+2025-11-24 19:17:38,206 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:17:38,433 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:17:38,561 - INFO - 批次32: 成功提取 64 个关键词
+2025-11-24 19:17:38,747 - INFO - 批次40: 成功提取 42 个关键词
+2025-11-24 19:17:39,967 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:17:40,317 - INFO - 批次34: 成功提取 50 个关键词
+2025-11-24 19:17:53,431 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:17:53,761 - INFO - 批次43: 成功提取 28 个关键词
+2025-11-24 19:17:53,993 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:17:54,328 - INFO - 批次42: 成功提取 28 个关键词
+2025-11-24 19:17:54,580 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:17:54,919 - INFO - 批次44: 成功提取 29 个关键词
+2025-11-24 19:18:05,727 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:18:06,037 - INFO - 批次45: 成功提取 41 个关键词
+2025-11-24 19:18:20,114 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:18:20,420 - INFO - 批次49: 成功提取 40 个关键词
+2025-11-24 19:18:20,701 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:18:21,010 - INFO - 批次50: 成功提取 24 个关键词
+2025-11-24 19:18:22,419 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:18:22,763 - INFO - 批次48: 成功提取 58 个关键词
+2025-11-24 19:18:22,814 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:18:23,147 - INFO - 批次51: 成功提取 81 个关键词
+2025-11-24 19:18:23,490 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:18:23,835 - INFO - 批次46: 成功提取 70 个关键词
+2025-11-24 19:18:26,677 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:18:26,992 - INFO - 批次47: 成功提取 47 个关键词
+2025-11-24 19:18:40,757 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:18:41,105 - INFO - 批次53: 成功提取 45 个关键词
+2025-11-24 19:18:47,278 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:18:47,632 - INFO - 批次41: 成功提取 78 个关键词
+2025-11-24 19:18:48,338 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:18:48,670 - INFO - 批次56: 成功提取 40 个关键词
+2025-11-24 19:18:51,784 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:18:52,050 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:18:52,051 - INFO - 批次55: 成功提取 38 个关键词
+2025-11-24 19:18:52,134 - INFO - 批次52: 成功提取 54 个关键词
+2025-11-24 19:19:09,378 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:19:09,650 - INFO - 批次57: 成功提取 55 个关键词
+2025-11-24 19:19:14,889 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:19:15,233 - INFO - 批次62: 成功提取 33 个关键词
+2025-11-24 19:19:17,849 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:19:18,201 - INFO - 批次59: 成功提取 48 个关键词
+2025-11-24 19:19:20,986 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:19:22,274 - INFO - 批次54: 成功提取 75 个关键词
+2025-11-24 19:19:29,590 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:19:29,937 - INFO - 批次60: 成功提取 46 个关键词
+2025-11-24 19:19:32,063 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:19:32,423 - INFO - 批次58: 成功提取 82 个关键词
+2025-11-24 19:19:37,434 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:19:37,771 - INFO - 批次66: 成功提取 29 个关键词
+2025-11-24 19:19:40,357 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:19:40,709 - INFO - 批次63: 成功提取 65 个关键词
+2025-11-24 19:19:45,637 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:19:45,991 - INFO - 批次61: 成功提取 59 个关键词
+2025-11-24 19:19:47,082 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:19:47,458 - INFO - 批次65: 成功提取 37 个关键词
+2025-11-24 19:19:48,064 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:19:48,487 - INFO - 批次67: 成功提取 32 个关键词
+2025-11-24 19:19:55,010 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:19:55,376 - INFO - 批次68: 成功提取 35 个关键词
+2025-11-24 19:20:01,373 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:20:01,774 - INFO - 批次69: 成功提取 42 个关键词
+2025-11-24 19:20:03,418 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:20:03,827 - INFO - 批次64: 成功提取 63 个关键词
+2025-11-24 19:20:09,666 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:20:10,096 - INFO - 批次70: 成功提取 43 个关键词
+2025-11-24 19:20:15,556 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:20:15,911 - INFO - 批次72: 成功提取 42 个关键词
+2025-11-24 19:20:19,947 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:20:20,315 - INFO - 批次71: 成功提取 60 个关键词
+2025-11-24 19:20:20,887 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:20:21,250 - INFO - 批次73: 成功提取 42 个关键词
+2025-11-24 19:20:22,293 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:20:22,661 - INFO - 批次75: 成功提取 36 个关键词
+2025-11-24 19:20:23,367 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:20:23,703 - INFO - 批次76: 成功提取 28 个关键词
+2025-11-24 19:20:30,276 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:20:30,663 - INFO - 批次77: 成功提取 33 个关键词
+2025-11-24 19:20:34,361 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:20:34,641 - INFO - 批次74: 成功提取 58 个关键词
+2025-11-24 19:20:37,488 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:20:37,635 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:20:37,856 - INFO - 批次80: 成功提取 33 个关键词
+2025-11-24 19:20:37,906 - INFO - 批次78: 成功提取 48 个关键词
+2025-11-24 19:20:46,090 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:20:46,509 - INFO - 批次83: 成功提取 30 个关键词
+2025-11-24 19:20:48,195 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:20:48,553 - INFO - 批次82: 成功提取 36 个关键词
+2025-11-24 19:20:49,205 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:20:49,534 - INFO - 批次81: 成功提取 36 个关键词
+2025-11-24 19:21:10,439 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:21:10,780 - INFO - 批次89: 成功提取 32 个关键词
+2025-11-24 19:21:12,501 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:21:12,834 - INFO - 批次86: 成功提取 41 个关键词
+2025-11-24 19:21:13,616 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:21:13,988 - INFO - 批次84: 成功提取 53 个关键词
+2025-11-24 19:21:15,317 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:21:15,641 - INFO - 批次90: 成功提取 44 个关键词
+2025-11-24 19:21:16,636 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:21:16,898 - INFO - 批次88: 成功提取 25 个关键词
+2025-11-24 19:21:19,247 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:21:19,612 - INFO - 批次85: 成功提取 55 个关键词
+2025-11-24 19:21:33,151 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:21:33,511 - INFO - 批次95: 成功提取 22 个关键词
+2025-11-24 19:21:36,958 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:21:37,304 - INFO - 批次87: 成功提取 69 个关键词
+2025-11-24 19:21:49,978 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:21:50,318 - INFO - 批次96: 成功提取 40 个关键词
+2025-11-24 19:21:52,051 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:21:52,331 - INFO - 批次93: 成功提取 43 个关键词
+2025-11-24 19:21:58,740 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:21:59,646 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:21:59,712 - INFO - 批次94: 成功提取 50 个关键词
+2025-11-24 19:22:00,026 - INFO - 批次97: 成功提取 55 个关键词
+2025-11-24 19:22:02,235 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:22:02,565 - INFO - 批次79: 成功提取 123 个关键词
+2025-11-24 19:22:04,460 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:22:04,822 - INFO - 批次91: 成功提取 61 个关键词
+2025-11-24 19:22:10,137 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:22:10,469 - INFO - 批次92: 成功提取 72 个关键词
+2025-11-24 19:22:27,023 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:22:27,319 - INFO - 批次102: 成功提取 36 个关键词
+2025-11-24 19:22:28,165 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:22:28,482 - INFO - 批次98: 成功提取 56 个关键词
+2025-11-24 19:22:28,903 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:22:29,260 - INFO - 批次100: 成功提取 44 个关键词
+2025-11-24 19:22:29,772 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:22:30,125 - INFO - 批次99: 成功提取 36 个关键词
+2025-11-24 19:22:37,771 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:22:38,080 - INFO - 批次101: 成功提取 54 个关键词
+2025-11-24 19:22:42,946 - INFO - HTTP Request: POST https://api.xty.app/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 19:22:43,301 - INFO - 批次103: 成功提取 46 个关键词
+2025-11-24 19:22:43,304 - INFO - 2007年: 成功批次 103/103, 提取 4186 个关键词
